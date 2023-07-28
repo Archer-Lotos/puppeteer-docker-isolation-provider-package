@@ -1,0 +1,11 @@
+{
+    "name": "@lotos2021/puppeteer-docker-isolation-provider",
+    "keywords": [
+      "deep-package"
+    ],
+    "version": "0.0.1",
+    "author": "lotos2021",
+    "dependencies": {
+      "@deep-foundation/core": "^0.0.2"
+    }
+}
